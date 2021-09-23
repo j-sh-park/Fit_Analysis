@@ -20,7 +20,7 @@ Did I achieve my goal of X steps more in the last 12 months than the 12 months b
 
 ## Getting Started
 
-##Contribution
+## Contribution
 
 ## Project Owners and Contact Details
 
