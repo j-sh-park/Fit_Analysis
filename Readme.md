@@ -7,9 +7,9 @@ Did I achieve my goal of X steps more in the last 12 months than the 12 months b
 ## Table of Contents
 
 1. Background
-2. Origin of the Data
-3. Data Exploration
-4. Ethics Related to the Data
+  A. Origin of the Data
+  B. Data Exploration
+  C. Ethics Related to the Data
 5. Data Analysis
 6. Contributions
 7. Project Owners and Contact Details
@@ -23,7 +23,7 @@ Did I achieve my goal of X steps more in the last 12 months than the 12 months b
 
 ### Ethics
 
-## Getting Started
+## Data Analysis
 
 ## Contribution
 
