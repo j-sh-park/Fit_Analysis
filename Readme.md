@@ -10,7 +10,7 @@ The purpose of this project is to answer the driving question; did Person 1 or P
 The second driving question was to determine if Person 1 or Person 2 walked more steps on a weekend rather than on a weekday. The hypothesis made was that people will generally be more physically active on the weekend, rather than on a weekday; therefore, the second driving question was to analyse the data sets to prove or disprove this hypothesis.
 
 ## Project Team Members
-1. Benjamin Boey
+1. Benjamin Boey, 480066938
 2. Benjamin Teo, 490580833
 3. Gerry How
 4. James Park
