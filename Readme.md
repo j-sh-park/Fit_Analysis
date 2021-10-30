@@ -118,7 +118,7 @@ https://github.sydney.edu.au/YHOW4819/2021-DATA3406-PRAC07-Group04/blob/master/s
 6. Data Exploration - https://github.sydney.edu.au/YHOW4819/2021-DATA3406-PRAC07-Group04/issues/6
 7. Exploration of Variables by Date - https://github.sydney.edu.au/YHOW4819/2021-DATA3406-PRAC07-Group04/issues/7
 8. Explore Person 1 Data Sources - https://github.sydney.edu.au/YHOW4819/2021-DATA3406-PRAC07-Group04/issues/10
-9. Further Analysis of Data for Each Source for Person 1 - https://github.sydney.edu.au/YHOW4819/2021-DATA3406-PRAC07-Group04/issues/11
+9. Further Analysis of Data for Person 1 Sources - https://github.sydney.edu.au/YHOW4819/2021-DATA3406-PRAC07-Group04/issues/11
 10. Visualisations for Driving Question 1 - https://github.sydney.edu.au/YHOW4819/2021-DATA3406-PRAC07-Group04/issues/12
 11. Report Planning - https://github.sydney.edu.au/YHOW4819/2021-DATA3406-PRAC07-Group04/issues/13
 12. Driving Question 2 Analysis and Results - https://github.sydney.edu.au/YHOW4819/2021-DATA3406-PRAC07-Group04/issues/16
