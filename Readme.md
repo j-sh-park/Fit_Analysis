@@ -2,6 +2,7 @@
 
 ## Driving Question
 Driving Question 1: Did I achieve my goal of X steps more in the last 12 months than the 12 months before that?
+
 Driving Question 2: Do I have more steps on average during the weekend in comparison to a weekday?
 
 ## Introduction
