@@ -13,7 +13,7 @@ The second driving question was to determine if Person 1 or Person 2 walked more
 ## Project Team Members
 1. Benjamin Boey, 480066938
 2. Benjamin Teo, 490580833
-3. Gerry How
+3. Gerry How, 490404115
 4. James Park
 5. Timothy D'cruz
 
